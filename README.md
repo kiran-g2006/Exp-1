@@ -1,47 +1,49 @@
 # Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
-To draw the UML diagram for ATM and Banking System.
+To draw the UML diagram for atm & banking system.
 
 # SRS (Procedure):
-List of Programs:
 
-i) Usecase Diagram
+Create the following diagrams in StarUML:
 
-ii)Class Diagram
-
-iii)Activity Diagram
-
-iv)Communication Diagram
-
-v)Package Diagram
-
-vi)Sequence Diagram
-
-
-**Name:** KIRAN G
-
-**Register No:** 212223040095
+  1.Use Case Diagram
+  
+  2.Class Diagram
+  
+  3.Activity Diagram
+  
+  4.Package Diagram
+  
+  5.Communication Diagram
+  
+  6.Sequence Diagram
 
 # DIAGRAMS:
+## Use Case Diagram
+![UseCaseDiagram1](https://github.com/user-attachments/assets/3d06630d-5769-4ada-a9c7-6bb7a2930c40)
 
-# Usecase Diagram
-<img width="950" height="742" alt="s 1" src="https://github.com/user-attachments/assets/5d0d94a1-4311-4629-bce0-8593e3b230d4" />
+## Class Diagram
 
-# Class Diagram
-<img width="1197" height="715" alt="s 2" src="https://github.com/user-attachments/assets/fa4e6cea-5f2f-4f4b-a2b6-adab391c93c2" />
+![CLASSDIAGRAM](https://github.com/user-attachments/assets/a1a6e757-4448-4b60-9a94-b3c4a23624d0)
 
-# Activity diagram
-<img width="680" height="767" alt="s 3" src="https://github.com/user-attachments/assets/6952ab92-caf0-4915-80bb-86da7ab6cf9e" />
+## Activity Diagram
 
-# Sequence Diagram
-<img width="1049" height="872" alt="s 4" src="https://github.com/user-attachments/assets/116c907d-a6bf-4d61-ad55-f3ae1580bdb2" />
+![ActivityDiagram1](https://github.com/user-attachments/assets/899b02bb-7352-477a-b7f2-f7be53fdca86)
 
-# Communication Diagram
-<img width="1215" height="872" alt="s 5" src="https://github.com/user-attachments/assets/946ca116-bbf5-4ee6-aba4-7f5787f0b045" />
+## Package Diagram
 
-# Package Diagram
-<img width="1172" height="845" alt="s 6" src="https://github.com/user-attachments/assets/2b5ec56b-a20e-4177-98f4-ce8ce31c1176" />
+![PackageDiagram1](https://github.com/user-attachments/assets/0edb376d-3c8f-482d-841d-def8df8cc1d5)
+
+## Communication Diagram
+
+![CommunicationDiagram1](https://github.com/user-attachments/assets/9be80c7c-c6e9-4336-bbcb-223151b3fbe1)
+
+## Sequence Diagram
+
+![SequenceDiagram1](https://github.com/user-attachments/assets/f917bd0e-c0d3-4c48-ad7e-a2f34598ca00)
+
 
 # RESULT:
-Thus the "ATM & BANKING SYSTEM" project created,executed & the output was verified
+
+Thus the uml diagram for atm and banking system is verified successfully.
